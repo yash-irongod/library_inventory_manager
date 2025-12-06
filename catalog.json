@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Introduction to Algorithms",
+        "author": "Thomas H. Cormen",
+        "isbn": "9780262033848",
+        "status": "available"
+    },
+    {
+        "title": "Clean Code",
+        "author": "Robert C. Martin",
+        "isbn": "9780132350884",
+        "status": "issued"
+    },
+    {
+        "title": "Operating System Concepts",
+        "author": "Silberschatz",
+        "isbn": "9781119456339",
+        "status": "available"
+    },
+    {
+        "title": "Database System Concepts",
+        "author": "Avi Silberschatz",
+        "isbn": "9780078022159",
+        "status": "available"
+    },
+    {
+        "title": "Python Crash Course",
+        "author": "Eric Matthes",
+        "isbn": "9781593279288",
+        "status": "issued"
+    }
+]
